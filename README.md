@@ -4,9 +4,6 @@
 
 
 
-
-
-<h3 align='center'>How it looks</h3>
 <img width="1440" alt="Screenshot 2022-05-16 at 02 59 16" src="https://user-images.githubusercontent.com/94570140/168508914-33a66165-6655-469a-a77d-4f3855f19b58.png">
 
 <p align="center" >
