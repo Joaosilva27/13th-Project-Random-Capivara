@@ -1,0 +1,43 @@
+.capi {
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  background-color: #995c3c;
+  height: 25rem;
+  width: 25rem;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.capi__button {
+  font-family: "Merienda", cursive;
+  box-shadow: inset 0px 1px 0px 0px #a6827e;
+  background: linear-gradient(to bottom, #7d5d3b 5%, #634b30 100%);
+  background-color: #7d5d3b;
+  width: 15rem;
+  border-radius: 3px;
+  border: 1px solid #54381e;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 13px;
+  padding: 10px 40px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #4d3534;
+}
+.capi__button:hover {
+  background: linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);
+  background-color: #634b30;
+}
+.capi__button:active {
+  position: relative;
+  top: 1px;
+}
+
+.capi__image {
+  margin-top: 1.6rem;
+  max-width: 100%;
+  max-height: 80%;
+}
